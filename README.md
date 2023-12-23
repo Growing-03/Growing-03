@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Growing-03
+- 👋 Hi, I’m @IkedaTomotaka
 - 👀 I’m interested in ...
 I am currently interested in systems engineer and programmer.
 
